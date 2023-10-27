@@ -1,0 +1,111 @@
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\Pamodoro Time.exe.config
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\Pamodoro Time.exe
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\Pamodoro Time.pdb
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\de\DevExpress.Data.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\es\DevExpress.Data.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\ja\DevExpress.Data.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\de\DevExpress.Printing.v23.1.Core.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\es\DevExpress.Printing.v23.1.Core.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\ja\DevExpress.Printing.v23.1.Core.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\de\DevExpress.Utils.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\es\DevExpress.Utils.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\ja\DevExpress.Utils.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\de\DevExpress.XtraEditors.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\es\DevExpress.XtraEditors.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\ja\DevExpress.XtraEditors.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\de\DevExpress.Pdf.v23.1.Core.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\es\DevExpress.Pdf.v23.1.Core.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\ja\DevExpress.Pdf.v23.1.Core.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\de\DevExpress.Sparkline.v23.1.Core.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\es\DevExpress.Sparkline.v23.1.Core.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\ja\DevExpress.Sparkline.v23.1.Core.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\obj\Debug\Pamodoro Time.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Pamodoro Time\obj\Debug\Pamodoro Time.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\source\repos\Pamodoro Time\obj\Debug\Pamodoro_Time.Pamodoro.resources
+C:\Users\lenovo\source\repos\Pamodoro Time\obj\Debug\Pamodoro_Time.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Pamodoro Time\obj\Debug\Pamodoro Time.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Pamodoro Time\obj\Debug\Pamodoro Time.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Pamodoro Time\obj\Debug\Pamodoro Time.csproj.CopyComplete
+C:\Users\lenovo\source\repos\Pamodoro Time\obj\Debug\Pamodoro Time.exe
+C:\Users\lenovo\source\repos\Pamodoro Time\obj\Debug\Pamodoro Time.pdb
+C:\Users\lenovo\source\repos\Pamodoro Time\obj\Debug\Pamodoro Time.exe.licenses
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.XtraGauges.v23.1.Core.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.XtraGauges.v23.1.Win.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.Office.v23.1.Core.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.XtraGauges.v23.1.Core.xml
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.XtraGauges.v23.1.Win.xml
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.Office.v23.1.Core.xml
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\de\DevExpress.XtraGauges.v23.1.Core.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\es\DevExpress.XtraGauges.v23.1.Core.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\ja\DevExpress.XtraGauges.v23.1.Core.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\de\DevExpress.XtraPrinting.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\es\DevExpress.XtraPrinting.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\ja\DevExpress.XtraPrinting.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\de\DevExpress.XtraLayout.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\es\DevExpress.XtraLayout.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\ja\DevExpress.XtraLayout.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\de\DevExpress.XtraBars.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\es\DevExpress.XtraBars.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\ja\DevExpress.XtraBars.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\de\DevExpress.RichEdit.v23.1.Core.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\es\DevExpress.RichEdit.v23.1.Core.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\ja\DevExpress.RichEdit.v23.1.Core.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\de\DevExpress.XtraTreeList.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\es\DevExpress.XtraTreeList.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\ja\DevExpress.XtraTreeList.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\de\DevExpress.Office.v23.1.Core.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\es\DevExpress.Office.v23.1.Core.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\ja\DevExpress.Office.v23.1.Core.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\obj\Debug\Pamodoro_Time.FrmSettings.resources
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.XtraGrid.v23.1.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.XtraScheduler.v23.1.Core.Desktop.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.XtraScheduler.v23.1.Core.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.XtraScheduler.v23.1.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.Images.v23.1.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.XtraScheduler.v23.1.xml
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.XtraScheduler.v23.1.Core.xml
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\DevExpress.XtraScheduler.v23.1.Core.Desktop.xml
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\de\DevExpress.XtraGrid.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\es\DevExpress.XtraGrid.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\ja\DevExpress.XtraGrid.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\de\DevExpress.XtraScheduler.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\es\DevExpress.XtraScheduler.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\ja\DevExpress.XtraScheduler.v23.1.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\de\DevExpress.XtraScheduler.v23.1.Core.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\es\DevExpress.XtraScheduler.v23.1.Core.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\ja\DevExpress.XtraScheduler.v23.1.Core.resources.dll
+C:\Users\lenovo\source\repos\Pamodoro Time\obj\Debug\About.FrmAbout.resources
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\Pamodoro Time.exe.manifest
+C:\Users\lenovo\source\repos\Pamodoro Time\bin\Debug\Pamodoro Time.application
+C:\Users\lenovo\source\repos\Pamodoro Time\obj\Debug\Pamodoro Time.exe.manifest
+C:\Users\lenovo\source\repos\Pamodoro Time\obj\Debug\Pamodoro Time.application
